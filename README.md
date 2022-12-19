@@ -28,7 +28,7 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React, Mongo & DSA*
 
-- 📫 How to reach me *iamamitkumarsaini68@gmail.com*
+- 📫 How to reach me *iamaksaini68@gmail.com*
 
 <h3 align="left">Interest and Description</h3>
 <p align="left">I am a Full Stack Web Developer with experience in building websites and web applications. I specialize in MERN Stack, along with expertise in JavaScript, HTML, CSS, and React. Outside of coding, my interest lies in Cricket, Movies and Travelling.</p>
